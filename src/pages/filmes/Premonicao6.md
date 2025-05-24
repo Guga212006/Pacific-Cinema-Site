@@ -7,11 +7,11 @@ hide_table_of_contents: true
 ![Premonição](/img/final_destination_small.png)
 
 **Sinopse:**  
-Atormentada por um pesadelo violento recorrente, uma estudante universitária retorna para casa para encontrar a única pessoa que pode quebrar o ciclo e salvar sua família do destino horrível que inevitavelmente os aguarda.
+Atormentada por um pesadelo violento recorrente, uma estudante universitária regressa a casa para encontrar a única pessoa que pode quebrar o ciclo e salvar a sua família do destino horrível que inevitavelmente os aguarda.
 
 **Género:** Terror  
 **Duração:** 1h 50min  
-**Classificação:** 16 anos
+**Classificação:** M/16
 
 ---
 
@@ -22,9 +22,9 @@ Atormentada por um pesadelo violento recorrente, uma estudante universitária re
 
 ---
 
-**Direção:** Zach Lipovsky, Adam B. Stein  
+**Realização:** Zach Lipovsky, Adam B. Stein  
 **Elenco:** Kaitlyn Santa Juana, Teo Briones, Rya Kihlstedt
 
 ---
 
-[Voltar para Filmes](/filmes)
+[Voltar aos Filmes](/filmes)

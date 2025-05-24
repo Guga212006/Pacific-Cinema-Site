@@ -7,11 +7,11 @@ hide_table_of_contents: true
 ![Minecraft](/img/minecraft_small.png)
 
 **Sinopse:**  
-Um portal misterioso atrai quatro desajustados para o Overworld, uma terra das maravilhas bizarras e cúbicas que prospera com a imaginação. Para voltar para casa, eles têm que dominar o terreno enquanto embarcam em uma missão mágica com um construtor inesperado chamado Steve.
+Um portal misterioso atrai quatro desajustados para o Overworld, uma terra de maravilhas bizarras e cúbicas que prospera com a imaginação. Para regressarem a casa, têm de dominar o terreno enquanto embarcam numa missão mágica com um construtor inesperado chamado Steve.
 
 **Género:** Ação, Comédia  
 **Duração:** 1h 41min  
-**Classificação:** 6 anos
+**Classificação:** M/6
 
 ---
 
@@ -22,9 +22,9 @@ Um portal misterioso atrai quatro desajustados para o Overworld, uma terra das m
 
 ---
 
-**Direção:** Jared Hess  
+**Realização:** Jared Hess  
 **Elenco:** Jack Black, Jason Momoa, Danielle Brooks, Emma Myers, Sebastian Hansen
 
 ---
 
-[Voltar para Filmes](/filmes)
+[Voltar aos Filmes](/filmes)

@@ -7,11 +7,11 @@ hide_table_of_contents: true
 ![Lilo & Stitch](/img/lilo_stitch_small.png)
 
 **Sinopse:**  
-Uma menina havaiana solitária faz amizade com um alienígena fugitivo, ajudando a remendar sua família fragmentada.
+Uma menina havaiana solitária faz amizade com um alienígena fugitivo, ajudando a recompor a sua família desfeita.
 
 **Género:** Ação, Comédia, Drama  
 **Duração:** 1h 48min  
-**Classificação:** 10 anos
+**Classificação:** M/6
 
 ---
 
@@ -22,9 +22,9 @@ Uma menina havaiana solitária faz amizade com um alienígena fugitivo, ajudando
 
 ---
 
-**Direção:** Dean Fleischer Camp  
+**Realização:** Dean Fleischer Camp  
 **Elenco:** Maia Kealoha, Sydney Agudong, Chris Sanders
 
 ---
 
-[Voltar para Filmes](/filmes)
+[Voltar aos Filmes](/filmes)
