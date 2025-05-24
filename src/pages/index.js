@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Pacific Cinemas - Onde a magia do cinema ganha vida.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

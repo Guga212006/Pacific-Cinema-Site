@@ -1,27 +1,33 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
     title: 'Duna: Parte Dois',
     imgSrc: require('@site/static/img/duna_parte_dois.png').default,
+    link: '/filmes/DunaParte2',
   },
   {
     title: 'Oppenheimer',
     imgSrc: require('@site/static/img/oppenheimer.png').default,
+    link: '/filmes/Oppenheimer',
   },
   {
     title: 'Thunderbolts',
     imgSrc: require('@site/static/img/thunderbolts.png').default,
+    link: '/filmes/Thunderbolts',
   },
 ];
 
-function Feature({imgSrc, title}) {
+function Feature({imgSrc, title, link}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <img src={imgSrc} className={styles.featureImg} alt={title} />
+        <Link to={link}>
+          <img src={imgSrc} className={styles.featureImg} alt={title} />
+        </Link>
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
