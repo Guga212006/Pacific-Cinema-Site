@@ -67,6 +67,7 @@ const config = {
         },
         theme: {
           customCss: './src/css/custom.css',
+          
         },
       }),
     ],
@@ -78,19 +79,14 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+        alt: 'Pacific Cinemas Logo',
+        src: 'img/Logo.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
+          { 
+            to: '/filmes', label: '🎬 Filmes', position: 'left'
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/Guga212006/Pacific-Cinema-Site/',
             label: 'GitHub',
@@ -130,10 +126,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/Guga212006/Pacific-Cinema-Site/',
