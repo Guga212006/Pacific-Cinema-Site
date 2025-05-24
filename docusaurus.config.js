@@ -87,6 +87,9 @@ const config = {
           { 
             to: '/filmes', label: '🎬 Filmes', position: 'left'
           },
+          { 
+            to: '/app', label: '📱 Aplicação', position: 'left'
+          },
           {
             href: 'https://github.com/Guga212006/Pacific-Cinema-Site/',
             label: 'GitHub',
