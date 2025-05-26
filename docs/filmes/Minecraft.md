@@ -32,4 +32,4 @@ Um portal misterioso atrai quatro desajustados para o Overworld, uma terra de ma
 
 ---
 
-[Voltar aos Filmes](/filmes)
+[Voltar aos Filmes](/docs/filmes)

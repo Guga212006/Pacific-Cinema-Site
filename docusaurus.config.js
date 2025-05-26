@@ -45,25 +45,6 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Guga212006/Pacific-Cinema-Site/',
-        },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Guga212006/Pacific-Cinema-Site/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -85,7 +66,7 @@ const config = {
         },
         items: [
           { 
-            to: '/filmes', label: '🎬 Filmes', position: 'left'
+            to: '/docs/filmes', label: '🎬 Filmes', position: 'left'
           },
           { 
             to: '/app', label: '📱 Aplicação', position: 'left'
@@ -114,7 +95,7 @@ const config = {
             items: [
               {
                 label: 'Em Cartaz',
-                to: '/filmes',
+                to: '/docs/filmes',
               },
             ],
           },

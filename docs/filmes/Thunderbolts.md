@@ -18,18 +18,16 @@ Anti-heróis, assassinos e agentes do governo. Yelena Belova cruza-se com John W
 **Duração:** 2h 6min  
 **Classificação:** M/12
 
----
-
-## Horários de Exibição
-
-- **Sala 2:** 15:00, 18:30, 21:45
-- **Sala 3 (Legendado):** 16:00, 19:30
-
----
-
 **Realização:** Jake Schreier  
 **Elenco:** Florence Pugh, Sebastian Stan, David Harbour
 
 ---
 
-[Voltar aos Filmes](/filmes)
+## Horários de Exibição :watch:
+
+| Sala        | Horário                   | Legendado          |
+|:-----------:|:-------------------------:|:------------------:|
+| **Sala 2**  | 15:00 \| 18:30 \| 21:45   | :x:                |
+| **Sala 3**  | 16:00 \| 19:30            | :white_check_mark: |
+
+[Voltar aos Filmes](/docs/filmes)

@@ -30,4 +30,4 @@ Atormentada por um pesadelo violento recorrente, uma estudante universitária re
 
 ---
 
-[Voltar aos Filmes](/filmes)
+[Voltar aos Filmes](/docs/filmes)

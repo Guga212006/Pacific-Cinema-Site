@@ -32,4 +32,4 @@ Uma menina havaiana solitária faz amizade com um alienígena fugitivo, ajudando
 
 ---
 
-[Voltar aos Filmes](/filmes)
+[Voltar aos Filmes](/docs/filmes)

@@ -18,18 +18,16 @@ Em 1926, o estudante de doutoramento J. Robert Oppenheimer, de 22 anos, estuda c
 **Duração:** 3h  
 **Classificação:** M/16
 
----
-
-## Horários de Exibição
-
-- **Sala 1:** 13:30, 17:00, 20:30
-- **Sala 2 (Legendado):** 14:30, 18:00
-
----
-
 **Realização:** Christopher Nolan  
 **Elenco:** Cillian Murphy, Emily Blunt, Matt Damon
 
 ---
 
-[Voltar aos Filmes](/filmes)
+## Horários de Exibição :watch:
+
+| Sala        | Horário                   | Legendado          |
+|:-----------:|:-------------------------:|:------------------:|
+| **Sala 1**  | 13:30 \| 17:00 \| 20:30   |:x:                 |
+| **Sala 2**  | 14:30 \| 18:00            |:white_check_mark:  |
+
+[Voltar aos Filmes](/docs/filmes)

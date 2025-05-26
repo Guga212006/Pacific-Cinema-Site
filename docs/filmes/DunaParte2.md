@@ -18,18 +18,16 @@ Este filme acompanha a jornada mítica do Duque Paul Atreides, que possui podere
 **Duração:** 2h 46min  
 **Classificação:** M/14
 
----
-
-## Horários de Exibição
-
-- **Sala 1:** 14:00, 17:30, 21:00
-- **Sala 2 (Legendado):** 15:00, 18:30
-
----
-
 **Realização:** Denis Villeneuve  
 **Elenco:** Timothée Chalamet, Zendaya, Rebecca Ferguson
 
 ---
 
-[Voltar aos Filmes](/filmes)
+## Horários de Exibição :watch:
+
+| Sala        | Horário                   | Legendado          |
+|:-----------:|:-------------------------:|:------------------:|
+| **Sala 1**  | 14:00 \| 17:30 \| 21:00   | :x:                |
+| **Sala 2**  | 15:00 \| 18:30            | :white_check_mark: |
+
+[Voltar aos Filmes](/docs/filmes)

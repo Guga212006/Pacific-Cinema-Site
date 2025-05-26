@@ -7,17 +7,17 @@ const FeatureList = [
   {
     title: 'Duna: Parte Dois',
     imgSrc: require('@site/static/img/duna_parte_dois.png').default,
-    link: '/filmes/DunaParte2',
+    link: '/docs/filmes/DunaParte2',
   },
   {
     title: 'Oppenheimer',
     imgSrc: require('@site/static/img/oppenheimer.png').default,
-    link: '/filmes/Oppenheimer',
+    link: '/docs/filmes/Oppenheimer',
   },
   {
     title: 'Thunderbolts',
     imgSrc: require('@site/static/img/thunderbolts.png').default,
-    link: '/filmes/Thunderbolts',
+    link: '/docs/filmes/Thunderbolts',
   },
 ];
 
