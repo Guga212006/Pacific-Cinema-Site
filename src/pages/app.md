@@ -4,6 +4,8 @@ hide_table_of_contents: true
 
 # Aplicação
 
+<img src="./img/Pacific_Cinemas.png" alt="Pacific Cinemas" align="right" width="400"/>
+
 ## Usa a nossa aplicação!
 
 ## Vantagens: 
@@ -19,9 +21,6 @@ hide_table_of_contents: true
 - ### Monitoramento de bilhetes e reservas!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <!-- ![ ](/img/Pacific_Cinemas.png) -->
-
- <img src="/Pacific-Cinema-Site/assets/images/Pacific_Cinemas-7e4cfb325ca36642febb5931edf8c46d.png" align="right" width="200"/>  
 
  [<img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/github_source.svg" alt="Ir para Source" />](https://github.com/Guga212006/Pacific-Cinema)
 

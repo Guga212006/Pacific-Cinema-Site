@@ -119,15 +119,6 @@ const config = {
             ],
           },
           {
-            title: 'Filmes',
-            items: [
-              {
-                label: 'Em Cartaz',
-                to: '/filmes',
-              },
-            ],
-          },
-          {
             title: 'Repositórios',
             items: [
               {
