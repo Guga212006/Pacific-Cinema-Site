@@ -119,9 +119,23 @@ const config = {
             ],
           },
           {
-            label: 'GitHub',
-            href: 'https://github.com/Guga212006/Pacific-Cinema-Site/',
-          }
+            title: 'Filmes',
+            items: [
+              {
+                label: 'Em Cartaz',
+                to: '/filmes',
+              },
+            ],
+          },
+          {
+            title: 'Repositórios',
+            items: [
+              {
+                label: 'GitHub',
+                href: 'https://github.com/Guga212006/Pacific-Cinema-Site/',
+              },
+            ],
+          },
         ],
         copyright: `© ${new Date().getFullYear()} Pacific Cinemas. Todos os direitos reservados.`,
       },
