@@ -30,7 +30,7 @@ function Feature({imgSrc, title, link}) {
         </Link>
       </div>
       <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
+        <Heading as="h3" style={{ fontSize: '2rem' }}>{title}</Heading>
       </div>
     </div>
   );
@@ -38,14 +38,19 @@ function Feature({imgSrc, title, link}) {
 
 export default function HomepageFeatures() {
   return (
-    <section className={styles.features}>
-      <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
+    <>
+      <h2 style={{ textAlign: 'center', marginTop: '2rem', fontSize: '3rem' }}>
+        Filmes mais populares:
+      </h2>
+      <section className={styles.features}>
+        <div className="container">
+          <div className="row">
+            {FeatureList.map((props, idx) => (
+              <Feature key={idx} {...props} />
+            ))}
+          </div>
         </div>
-      </div>
-    </section>
+      </section>
+    </>
   );
 }
