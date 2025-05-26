@@ -10,7 +10,11 @@ hide_table_of_contents: true
 **Sinopse:**  
 Este filme acompanha a jornada mítica do Duque Paul Atreides, que possui poderes de clarividência que podem permitir-lhe guiar a humanidade para um futuro melhor. Agora aliado a Chani e aos Fremen, Paul está numa guerra de vingança contra os conspiradores que destruíram a sua família. Depois de assumir o controlo do império e enfrentar uma escolha entre o amor da sua vida e o destino do universo conhecido, ele esforça-se por evitar um futuro terrível que só ele consegue prever.
 
-**Género:** Ficção Científica  
+**Género:** 
+- Ficção Científica :rocket:
+- Drama :performing_arts: 
+- Ação :boom:
+
 **Duração:** 2h 46min  
 **Classificação:** M/14
 

@@ -3,10 +3,12 @@ hide_table_of_contents: true
 ---
 
 # Aplicação
+<img src="./img/Pacific_Cinemas.png" align="right" width="400"/>
 
-<img src="./img/Pacific_Cinemas.png" alt="Pacific Cinemas" align="right" width="400"/>
+## Usa a nossa aplicação!  :calling:
 
-## Usa a nossa aplicação!
+ [<img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/github_source.svg" alt="Ir para Source" />](https://github.com/Guga212006/Pacific-Cinema)
+
 
 ## Vantagens: 
 
@@ -21,6 +23,7 @@ hide_table_of_contents: true
 - ### Monitoramento de bilhetes e reservas!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <!-- ![ ](/img/Pacific_Cinemas.png) -->
 
- [<img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/github_source.svg" alt="Ir para Source" />](https://github.com/Guga212006/Pacific-Cinema)
+
 

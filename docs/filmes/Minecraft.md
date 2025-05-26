@@ -10,7 +10,11 @@ hide_table_of_contents: true
 **Sinopse:**  
 Um portal misterioso atrai quatro desajustados para o Overworld, uma terra de maravilhas bizarras e cúbicas que prospera com a imaginação. Para regressarem a casa, têm de dominar o terreno enquanto embarcam numa missão mágica com um construtor inesperado chamado Steve.
 
-**Género:** Ação, Comédia  
+**Género:** 
+- Ação :boom:   
+- Comédia :rofl:
+- Aventura :compass:
+
 **Duração:** 1h 41min  
 **Classificação:** M/6
 

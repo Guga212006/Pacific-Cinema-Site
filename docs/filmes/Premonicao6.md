@@ -10,7 +10,9 @@ hide_table_of_contents: true
 **Sinopse:**  
 Atormentada por um pesadelo violento recorrente, uma estudante universitária regressa a casa para encontrar a única pessoa que pode quebrar o ciclo e salvar a sua família do destino horrível que inevitavelmente os aguarda.
 
-**Género:** Terror  
+**Género:** 
+- Terror :skull:
+
 **Duração:** 1h 50min  
 **Classificação:** M/16
 

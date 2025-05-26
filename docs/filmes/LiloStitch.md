@@ -10,7 +10,11 @@ hide_table_of_contents: true
 **Sinopse:**  
 Uma menina havaiana solitária faz amizade com um alienígena fugitivo, ajudando a recompor a sua família desfeita.
 
-**Género:** Ação, Comédia, Drama  
+**Género:** 
+- Ação :boom:
+- Comédia :rofl:
+- Drama :performing_arts:
+
 **Duração:** 1h 48min  
 **Classificação:** M/6
 
