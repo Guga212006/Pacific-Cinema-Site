@@ -32,7 +32,6 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
       description="Pacific Cinemas - Onde a magia do cinema ganha vida.">
       <HomepageHeader />
       <main>

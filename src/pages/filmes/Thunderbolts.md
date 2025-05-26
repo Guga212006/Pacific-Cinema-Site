@@ -18,8 +18,8 @@ Anti-heróis, assassinos e agentes do governo. Yelena Belova cruza-se com John W
 
 ## Horários de Exibição
 
-- **Sala 1:** 15:00, 18:30, 21:45
-- **Sala 2 (Legendado):** 16:00, 19:30
+- **Sala 2:** 15:00, 18:30, 21:45
+- **Sala 3 (Legendado):** 16:00, 19:30
 
 ---
 

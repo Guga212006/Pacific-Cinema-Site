@@ -18,8 +18,8 @@ Atormentada por um pesadelo violento recorrente, uma estudante universitária re
 
 ## Horários de Exibição
 
-- **Sala 1:** 15:30, 19:30, 22:00
-- **Sala 2 (Legendado):** 16:00, 18:30, 22:30
+- **Sala 3:** 15:30, 19:30, 22:00
+- **Sala 6 (Legendado):** 16:00, 18:30, 22:30
 
 ---
 

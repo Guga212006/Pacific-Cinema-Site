@@ -18,8 +18,8 @@ Uma menina havaiana solitária faz amizade com um alienígena fugitivo, ajudando
 
 ## Horários de Exibição
 
-- **Sala 1:** 14:30, 17:30, 20:00
-- **Sala 2 (Legendado):** 15:30, 19:00
+- **Sala 3:** 14:30, 17:30, 20:00
+- **Sala 5 (Legendado):** 15:30, 19:00
 
 ---
 

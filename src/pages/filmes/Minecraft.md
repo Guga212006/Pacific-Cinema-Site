@@ -18,8 +18,8 @@ Um portal misterioso atrai quatro desajustados para o Overworld, uma terra de ma
 
 ## Horários de Exibição
 
-- **Sala 1:** 13:00, 15:30, 19:00
-- **Sala 2 (Legendado):** 14:00, 16:30
+- **Sala 4:** 13:00, 15:30, 19:00
+- **Sala 1 (Legendado):** 14:00, 16:30
 
 ---
 

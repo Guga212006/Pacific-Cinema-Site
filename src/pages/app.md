@@ -19,5 +19,9 @@ hide_table_of_contents: true
 - ### Monitoramento de bilhetes e reservas!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ![ ](/img/Pacific_Cinemas.png)  
+ ![ ](/static/img/Pacific_Cinemas.png)
+
+ <img src="../../static/img/Pacific_Cinemas.png" align="right" width="200"/>  
+
+ [<img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/github_source.svg" alt="Ir para Source" height="32" />](https://github.com/Guga212006/Pacific-Cinema)
 
