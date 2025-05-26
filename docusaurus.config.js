@@ -118,6 +118,10 @@ const config = {
               },
             ],
           },
+          {
+            label: 'GitHub',
+            href: 'https://github.com/Guga212006/Pacific-Cinema-Site/',
+          }
         ],
         copyright: `© ${new Date().getFullYear()} Pacific Cinemas. Todos os direitos reservados.`,
       },
