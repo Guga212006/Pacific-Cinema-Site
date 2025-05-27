@@ -30,4 +30,4 @@ Este filme acompanha a jornada mítica do Duque Paul Atreides, que possui podere
 | **Sala 1**  | 14:00 \| 17:30 \| 21:00   | :x:                |
 | **Sala 2**  | 15:00 \| 18:30            | :white_check_mark: |
 
-[Voltar aos Filmes](/docs/filmes)
+### [Voltar aos Filmes](/docs/filmes)

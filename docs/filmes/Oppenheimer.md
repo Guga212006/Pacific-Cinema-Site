@@ -30,4 +30,4 @@ Em 1926, o estudante de doutoramento J. Robert Oppenheimer, de 22 anos, estuda c
 | **Sala 1**  | 13:30 \| 17:00 \| 20:30   |:x:                 |
 | **Sala 2**  | 14:30 \| 18:00            |:white_check_mark:  |
 
-[Voltar aos Filmes](/docs/filmes)
+### [Voltar aos Filmes](/docs/filmes)

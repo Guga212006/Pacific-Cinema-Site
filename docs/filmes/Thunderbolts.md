@@ -30,4 +30,4 @@ Anti-heróis, assassinos e agentes do governo. Yelena Belova cruza-se com John W
 | **Sala 2**  | 15:00 \| 18:30 \| 21:45   | :x:                |
 | **Sala 3**  | 16:00 \| 19:30            | :white_check_mark: |
 
-[Voltar aos Filmes](/docs/filmes)
+### [Voltar aos Filmes](/docs/filmes)

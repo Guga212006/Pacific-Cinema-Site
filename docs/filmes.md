@@ -2,7 +2,7 @@
 hide_table_of_contents: true
 ---
 
-# :clapper: Filmes 
+# Filmes 
 
 ### Oppenheimer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thunderbolts &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duna: Parte 2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minecraft
 [![Oppenheimer ](/img/oppenheimer_small.png)](/docs/filmes/Oppenheimer "Oppenheimer | M/16 anos | Biografia, Ficção Científica, Drama | 3h")

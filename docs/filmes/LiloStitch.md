@@ -18,18 +18,16 @@ Uma menina havaiana solitária faz amizade com um alienígena fugitivo, ajudando
 **Duração:** 1h 48min  
 **Classificação:** M/6
 
----
-
-## Horários de Exibição
-
-- **Sala 3:** 14:30, 17:30, 20:00
-- **Sala 5 (Legendado):** 15:30, 19:00
-
----
-
 **Realização:** Dean Fleischer Camp  
 **Elenco:** Maia Kealoha, Sydney Agudong, Chris Sanders
 
 ---
 
-[Voltar aos Filmes](/docs/filmes)
+## Horários de Exibição :watch:
+
+| Sala       | Hora                    | Legendado          |
+|------------|-------------------------|:------------------:|
+| **Sala 3** | 14:30 \| 17:30 \| 20:00 | :x:                |
+| **Sala 5** | 15:30 \| 19:00          | :white_check_mark: |
+
+### [Voltar aos Filmes](/docs/filmes)

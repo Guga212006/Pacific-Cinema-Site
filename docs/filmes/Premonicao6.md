@@ -16,18 +16,16 @@ Atormentada por um pesadelo violento recorrente, uma estudante universitária re
 **Duração:** 1h 50min  
 **Classificação:** M/16
 
----
-
-## Horários de Exibição
-
-- **Sala 3:** 15:30, 19:30, 22:00
-- **Sala 6 (Legendado):** 16:00, 18:30, 22:30
-
----
-
 **Realização:** Zach Lipovsky, Adam B. Stein  
 **Elenco:** Kaitlyn Santa Juana, Teo Briones, Rya Kihlstedt
 
 ---
 
-[Voltar aos Filmes](/docs/filmes)
+## Horários de Exibição :watch:
+
+| Sala       | Hora                    | Legendado          |
+|------------|-------------------------|:------------------:|
+| **Sala 3** | 15:30 \| 19:30 \| 22:00 | :x:                |
+| **Sala 6** | 16:00 \| 18:30 \| 22:30 | :white_check_mark: |
+
+### [Voltar aos Filmes](/docs/filmes)
