@@ -27,4 +27,4 @@ hide_table_of_contents: true
 &nbsp;
 
 ## Onde fica o cinema? :round_pushpin:
-### O cinema encontra-se em Portimão e Faro.
+### Os cinemas encontram-se em Portimão e Faro.
