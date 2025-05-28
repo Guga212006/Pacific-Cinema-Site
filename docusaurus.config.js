@@ -117,9 +117,13 @@ const config = {
             title: 'Repositórios',
             items: [
               {
-                label: 'GitHub',
+                label: 'Pacific Cinemas Site',
                 href: 'https://github.com/Guga212006/Pacific-Cinema-Site/',
               },
+              {
+                label: 'Pacific Cinemas App',
+                href: 'https://github.com/Guga212006/Pacific-Cinema',
+              }
             ],
           },
         ],
