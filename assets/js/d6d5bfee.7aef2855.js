@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpacific_cinema_site=self.webpackChunkpacific_cinema_site||[]).push([[2742],{2443:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/Pacific-Cinema-Site/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

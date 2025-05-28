@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpacific_cinema_site=self.webpackChunkpacific_cinema_site||[]).push([[1903],{1912:i=>{i.exports=JSON.parse('{"blogBasePath":"/Pacific-Cinema-Site/blog","blogTitle":"Blog","authorsListPath":"/Pacific-Cinema-Site/blog/authors"}')}}]);
